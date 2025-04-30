@@ -2,7 +2,7 @@
 # 🔧 RESOURCE GROUP
 ############################
 resource "azurerm_resource_group" "rg" {
-  name     = "nifi-final"
+  name     = "desicion-pulse"
   location = "Central India"
 }
 
